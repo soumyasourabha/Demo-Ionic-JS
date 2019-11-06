@@ -1,0 +1,46 @@
+-> mobile app , cross plat from apps , apple app
+-> provide different element 
+
+-> one code base (html+css+js) ---> web app / anroid app / ios app / electron desktop app
+
+Progressive web app (native mobile app) -> offline functionality, fast , reliable, engaging
+
+make cross-platform app
+
+================================
+
+1. Web Component like <ion-button> 
+
+2. Capacitor  -> web app to wrap up in native mobile app
+
+3. Ionic Cli (+Angular cli) -> project management , structure , build flow
+
+4. Ionic with all alternative
+
+5. Ionic web component learning stensil
+
+//=============================//
+
+npm install -g ionic 
+
+ionic start
+
+ionic serve
+
+coderva / Capacitor -> (code+ionic) ---> web view 
+
+
+-> web component 
+
+-> css And theme 
+
+-> Navigator (built in router)
+
+-> state management (passing data around)
+
+-> native device features like camera  (face id , location)
+
+-> ionic cli (handle work  flow and publishing )
+
+Basic structure 
+
